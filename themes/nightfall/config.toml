@@ -1,0 +1,7 @@
+[params]
+user = "hello"
+hostname = "gohugo.io"
+
+  [params.author]
+    name = "Mr Hugo"
+    email = "hugo@example.com"

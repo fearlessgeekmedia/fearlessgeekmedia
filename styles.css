@@ -1,0 +1,14 @@
+body {
+	background-color: #000;
+	color: #168304;
+	text-align: center; 
+	margin-top: 6em;
+}
+
+#logo {
+		width: 13em;
+}
+
+section {
+	margin: 3em;
+}

@@ -1,0 +1,62 @@
+[params]
+user = "home"
+hostname = "fearlessgeekmedia.com"
+  [params.author]
+    name = "Fearless Geek Media"
+    email = "service@fearlessgeekmedia.com"
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 4
+    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+  [[menu.header]]
+    name = "projects"
+    weight = 2
+    url = "projects"
+  [[menu.header]]
+    name = "discovery session"
+    weight = 3
+    url = "discovery_session"
+  [[menu.header]]
+    name = "Fearless Geek Shop"
+    weight = 5
+    url = "https://fearlessgeekmedia.creator-spring.com"
+  [[menu.header]]
+    name = "Support on Ko-Fi"
+    weight = 6
+    url = "https://ko-fi.com/fearlessgeekmedia"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/fearlessgeekmedia"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 1
+name = "instagram"
+url = "https://instagram.com/fearlessgeekmedia"
+aria = "Instagram Profile"
+
+[[params.social]]
+key = 2
+name = "facebook"
+url = "https://www.facebook.com/fearlessgeekmedia"
+aria = "Facebook Profile"
+
+[[params.social]]
+key = 3
+name = "linktree"
+url = "https://linktr.ee/fearlessgeekmedia"
+aria = "Linktree"

@@ -1,0 +1,23 @@
+<footer class="footer">
+    {{ with .Site.Params.footerHtml }}
+        <span>{{ . | safeHTML }}</span>
+    {{ else }}
+        <span>
+            © {{ now.Format "2006" }} {{ .Site.Params.author.name }}, {{ i18n "powered_by" }}
+            <a href="https://gohugo.io" class="footerLink">Hugo</a> {{ i18n "and" }}
+            <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> {{ i18n "theme" }}
+        </span>
+        <script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
+        <script type="text/javascript">
+            new TypeIt("#indexHeader", {
+              strings: "Code is Art",
+              cursorChar: "░",
+              speed: 75,
+              loop: false,
+              afterComplete: function (instance) {
+                instance.destroy();
+              }
+            }).go();
+        </script>
+    {{ end }}
+</footer>
