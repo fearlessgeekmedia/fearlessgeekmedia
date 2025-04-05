@@ -15,6 +15,6 @@ I was inspired by a Mad Libs application that I had with some games on my first 
 
 I even created a Template tester and included instructions on how to create templates. You can also submit templates.
 
-<a href="http://172.234.245.214" target="_blank">Click here for GeekyLibs</a>
+<a href="https://geekylibs.infinityfreeapp.com" target="_blank">Click here for GeekyLibs</a>
 
 <a href="https://github.com/fearlessgeekmedia/GeekyLibs" target="_blank">Click here for source code</a>
