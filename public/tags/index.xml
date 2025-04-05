@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on</title><link>/tags/</link><description>Recent content in Tags on</description><generator>Hugo</generator><language>en</language><managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor><webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster><lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Index</title><link>/tags/index/</link><pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/tags/index/</guid><description/></item><item><title>Mental Health</title><link>/tags/mental-health/</link><pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/tags/mental-health/</guid><description/></item><item><title>Update</title><link>/tags/update/</link><pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/tags/update/</guid><description/></item><item><title>New Year</title><link>/tags/new-year/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/tags/new-year/</guid><description/></item><item><title>Website</title><link>/tags/website/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/tags/website/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>//172.234.245.214:80/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
+    <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
+    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//172.234.245.214:80/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>//172.234.245.214:80/tags/index/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
+      <guid>//172.234.245.214:80/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>//172.234.245.214:80/tags/mental-health/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
+      <guid>//172.234.245.214:80/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Update</title>
+      <link>//172.234.245.214:80/tags/update/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
+      <guid>//172.234.245.214:80/tags/update/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Year</title>
+      <link>//172.234.245.214:80/tags/new-year/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
+      <guid>//172.234.245.214:80/tags/new-year/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website</title>
+      <link>//172.234.245.214:80/tags/website/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
+      <guid>//172.234.245.214:80/tags/website/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
