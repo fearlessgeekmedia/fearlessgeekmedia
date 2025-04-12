@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on </title>
-    <link>//172.234.245.214:80/tags/web-development/</link>
+    <link>//localhost:1313/tags/web-development/</link>
     <description>Recent content in Web Development on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
     <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
-    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//172.234.245.214:80/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plans...</title>
-      <link>//172.234.245.214:80/post/plans/</link>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//172.234.245.214:80/post/plans/</guid>
-      <description>FearlessCMS I am currently working on FearlessCMS, a content management system that I will be using for new clients. I hope to have this in alpha by the end of May. It is a flat-file system, meaning it doesn&amp;rsquo;t connect to a SQL database. It uses markdown and saves to markdown files.&#xA;I feel it comes at a pivotal time, considering there is a lot of drama in the Wordpress community.</description>
+      <link>//localhost:1313/post/plans/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
+      <guid>//localhost:1313/post/plans/</guid>
+      <description>&lt;h2 id=&#34;fearlesscms&#34;&gt;FearlessCMS&lt;/h2&gt;&#xA;&lt;p&gt;I am currently working on FearlessCMS, a content management system that I will be using for new clients. I hope to have this in alpha by the end of May. It is a flat-file system, meaning it doesn&amp;rsquo;t connect to a SQL database. It uses markdown and saves to markdown files.&lt;/p&gt;&#xA;&lt;p&gt;I feel it comes at a pivotal time, considering there is a lot of drama in the Wordpress community. I will continue to support Wordpress-based sites. But I do have to wonder about the future of Wordpress.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
