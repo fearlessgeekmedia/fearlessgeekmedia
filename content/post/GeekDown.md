@@ -1,6 +1,6 @@
 +++
 author = "Fearless Geek Media"
-title = "Plans..."
+title = "GeekDown Editor"
 date = "2025-04-13"
 description = "GeekDown markdown editor"
 tags = [
