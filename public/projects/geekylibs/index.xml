@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fearless Geek Media - GeekyLibs on </title>
-    <link>//172.234.245.214:80/projects/geekylibs/</link>
+    <link>//localhost:1313/projects/geekylibs/</link>
     <description>Recent content in Fearless Geek Media - GeekyLibs on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
     <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//172.234.245.214:80/projects/geekylibs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/projects/geekylibs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

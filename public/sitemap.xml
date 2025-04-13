@@ -2,70 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//172.234.245.214:80/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/geekdown/</loc>
+    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/</loc>
+    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/index/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/plans/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/web-design/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/web-development/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/geekylibs/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/projects/geekylibs/</loc>
+    <loc>//localhost:1313/post/im-back/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/post/im-back/</loc>
+    <loc>//localhost:1313/tags/mental-health/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/tags/index/</loc>
+    <loc>//localhost:1313/tags/update/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/tags/mental-health/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//172.234.245.214:80/post/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//172.234.245.214:80/projects/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//172.234.245.214:80/tags/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//172.234.245.214:80/tags/update/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//172.234.245.214:80/projects/fearless-geek-media-business-cards/</loc>
+    <loc>//localhost:1313/projects/fearless-geek-media-business-cards/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/post/update-out-for-three-months/</loc>
+    <loc>//localhost:1313/post/update-out-for-three-months/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/post/mental-health-break/</loc>
+    <loc>//localhost:1313/post/mental-health-break/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/projects/fearlesscms/</loc>
+    <loc>//localhost:1313/projects/fearlesscms/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/tags/new-year/</loc>
+    <loc>//localhost:1313/tags/new-year/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/post/new-year-new-site/</loc>
+    <loc>//localhost:1313/post/new-year-new-site/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/tags/website/</loc>
+    <loc>//localhost:1313/tags/website/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/projects/xbpsman/</loc>
+    <loc>//localhost:1313/projects/xbpsman/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/projects/willbritionlogisticsllc/</loc>
+    <loc>//localhost:1313/projects/willbritionlogisticsllc/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/projects/waternexusregistry/</loc>
+    <loc>//localhost:1313/projects/waternexusregistry/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/projects/vitchello/</loc>
+    <loc>//localhost:1313/projects/vitchello/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//172.234.245.214:80/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>//172.234.245.214:80/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//172.234.245.214:80/discovery_session/</loc>
+    <loc>//localhost:1313/discovery_session/</loc>
   </url>
 </urlset>
