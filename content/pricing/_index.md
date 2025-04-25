@@ -1,7 +1,12 @@
 +++
 title = "Pricing at Fearless Geek Media"
 +++
-
+<style>
+td {
+  width: 25%;
+  border-bottom: 1px solid #232323
+}
+</style>
 ## Freelance Web Development Pricing
 
 <br />
