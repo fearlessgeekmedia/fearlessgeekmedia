@@ -2,7 +2,7 @@
 title = "Pricing at Fearless Geek Media"
 +++
 
-# ⚙️ Freelance Web Development Pricing
+## Freelance Web Development Pricing
 
 <br />
 
@@ -17,17 +17,15 @@ title = "Pricing at Fearless Geek Media"
 
 <br />
 
-## ⏱ Hourly Work
+## Hourly Work
 
 | Service                            |       | Rate              |
 | ---------------------------------- | :---- | ----------------- |
 | Development, Consulting, Debugging |       | **$55–$110/hour** |
 
-***
 
-# 🎨 Logo & Branding Packages
+## Logo & Branding Packages
 
-##
 
 | <br />          | <b>Basic Logo Design</b> | <b>Mid-Tier Logo Package</b>         | <b>Full Branding Suite</b>           |
 | --------------- | :------------------: | :------------------------------: | :------------------------------: |
@@ -35,12 +33,5 @@ title = "Pricing at Fearless Geek Media"
 | Concepts        | 1–2                  | 3 initial ideas                  | 5 initial ideas                  |
 | Revisions       | 1–2 rounds           | 3-5 rounds                       | Up to 7 rounds                   |
 | Deliverables    | PNG, SVG, etc.       | Final files + simple brand guide | Brand guide, social/print assets |
-| <br />          | <br />               | <br />                           | <br />                           |
-
-***
-
-##
-
-##
 
 <br />
