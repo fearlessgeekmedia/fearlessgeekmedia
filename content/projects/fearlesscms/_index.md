@@ -6,8 +6,7 @@ date = 2024-12-31
 ![FearlessCMS Logo](../../images/portfolio-images/fearlesscms/FearlessCMS-Logo.png)
 
 ![FearlessCMS Login](../../images/portfolio-images/fearlesscms/fearlesscms-1.png)
-![FearlessCMS Mission Control](../../images/portfolio-images/fearlesscms/fearlesscms-2.png)
-
+![FearlessCMS Mission Control](../../images/screenshot_3.jpg)
 FearlessCMS is a flat-file content management system that I'm currently developing.
 
 The plan is for it to include e-commerce support out of the box, and to use modern web technologies.
