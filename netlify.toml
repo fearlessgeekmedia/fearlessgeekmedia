@@ -2,7 +2,7 @@
   DART_SASS_VERSION = "1.88.0"
   HUGO_VERSION = "0.147.2"
   HUGO_ENV = "production"
-  HUGO_THEME = "repo"
+  HUGO_THEME = "nightfall"
   HUGO_BASEURL = "https://hugo-theme-nightfall.netlify.com"
 
 [build]
