@@ -1,56 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on </title>
-    <link>//localhost:1313/post/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
-    <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GeekDown Editor</title>
-      <link>//localhost:1313/post/geekdown/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/geekdown/</guid>
-      <description>&lt;h2 id=&#34;geekdown-markdown-editor&#34;&gt;GeekDown Markdown Editor&lt;/h2&gt;&#xA;&lt;p&gt;Yesterday, I published the first release of the GeekDown markdown editor. It&amp;rsquo;s version 0.0.1. This should indicate it is very early alpha software. With that being said, I am using it right now to write this post for the website. So while it&amp;rsquo;s alpha, it is useful in production. &lt;/p&gt;&#xA;&lt;p&gt;Definitely do not expect everything to be perfect with this app, however. There are issues I definitely know about it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Plans...</title>
-      <link>//localhost:1313/post/plans/</link>
-      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/plans/</guid>
-      <description>&lt;h2 id=&#34;fearlesscms&#34;&gt;FearlessCMS&lt;/h2&gt;&#xA;&lt;p&gt;I am currently working on FearlessCMS, a content management system that I will be using for new clients. I hope to have this in alpha by the end of May. It is a flat-file system, meaning it doesn&amp;rsquo;t connect to a SQL database. It uses markdown and saves to markdown files.&lt;/p&gt;&#xA;&lt;p&gt;I feel it comes at a pivotal time, considering there is a lot of drama in the Wordpress community. I will continue to support Wordpress-based sites. But I do have to wonder about the future of Wordpress.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I&#39;m back, program wasn&#39;t quite three months</title>
-      <link>//localhost:1313/post/im-back/</link>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/im-back/</guid>
-      <description>&lt;p&gt;So I found out while I was in the program that it wasn&amp;rsquo;t necessarily for three months. Besides, my insurance would only cover 45 days.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s all good. I got the healing I needed for the time being. Now I&amp;rsquo;m ready to get to work on some awesome projects.&lt;/p&gt;&#xA;&lt;p&gt;Development projects I was able to do while in treatment:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;    &lt;li&gt;A javascript CLI app for contacts, compiled with Bun&lt;/li&gt;&#xA;    &lt;li&gt;A Mad Libs clone I call GeekyLibs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&amp;rsquo;m also refreshing myself on Python. While I had learned that a while back, I never really did anything with it, and I do want to do something with Python.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>In 3 month residential treatment for mental health.</title>
-      <link>//localhost:1313/post/update-out-for-three-months/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/update-out-for-three-months/</guid>
-      <description>&lt;p&gt;Hi everyone! Well, interestingly, the same day I made my last post that said I was doing better, I had a bit of a meltdown and crisis later that day.&lt;/p&gt;&#xA;&lt;p&gt;I spent a week in the hospital, and then was recommended for residential therapy at a local treatment program. This program also has an option for transitional housing at the end. This will be great since I&amp;rsquo;m at the shelter right now, and that takes a toll on me as it is. So I get the benefit of therapy and it&amp;rsquo;s a ticket out of the shelter.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Had to take a mental health break...</title>
-      <link>//localhost:1313/post/mental-health-break/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/mental-health-break/</guid>
-      <description>&lt;p&gt;Hi everyone! I had hoped to work on certain projects a bit more, but I pretty much needed a mental health break. I had several weeks where it was a struggle for me. So I didn&amp;rsquo;t focus on FearlessCMS or the other projects like I really wanted to.&lt;/p&gt;&#xA;&lt;p&gt;January is generally a rough month for me anyway. Perhaps January should just be a month where I largely focus on my mental health going forward for me.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New Year, New Site!</title>
-      <link>//localhost:1313/post/new-year-new-site/</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/new-year-new-site/</guid>
-      <description>&lt;p&gt;Well, it&amp;rsquo;s a new year! And a lot has changed! I have decided to redo my website. Honestly, it&amp;rsquo;s still in progress, but I wanted to go ahead and get something up as I took the old site down several months ago.&lt;/p&gt;&#xA;&lt;p&gt;I have started my own new projects, but also looking for new clients in this new year.&lt;/p&gt;&#xA;&lt;p&gt;I have made some changes in my life. I have moved to Salt Lake City, Utah! It&amp;rsquo;s a beautiful city with a thriving technology scene. I do miss Charlotte, but I needed a new start.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>/post/</link><description>Recent content in Posts on</description><generator>Hugo</generator><language>en</language><managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor><webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><item><title>GeekDown Editor</title><link>/post/geekdown/</link><pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/post/geekdown/</guid><description>&lt;h2 id="geekdown-markdown-editor">GeekDown Markdown Editor&lt;/h2>
+&lt;p>Yesterday, I published the first release of the GeekDown markdown editor. It&amp;rsquo;s version 0.0.1. This should indicate it is very early alpha software. With that being said, I am using it right now to write this post for the website. So while it&amp;rsquo;s alpha, it is useful in production. &lt;/p>
+&lt;p>Definitely do not expect everything to be perfect with this app, however. There are issues I definitely know about it.&lt;/p></description></item><item><title>FearlessCMS Update: 05-15-2025</title><link>/post/update-05-15/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/post/update-05-15/</guid><description>&lt;h1 id="fearlesscms-update">FearlessCMS Update&lt;/h1>
+&lt;p>FearlessCMS has been in alpha for a few weeks now. I never got around to announcing it here. But we&amp;rsquo;re already on Alpha 2.&lt;/p>
+&lt;p>I expect to be on Alpha 2 for some time. I want other developers to start trying it out and developing for it. I want to create a good plugin and theme ecosystem for the CMS.&lt;/p>
+&lt;p>I also decided to add an export script to export to a static HTML/Javascript site, much like Hugo would create for you, even though it&amp;rsquo;s a full content management system, unlike Hugo.&lt;/p></description></item><item><title>Plans...</title><link>/post/plans/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/post/plans/</guid><description>&lt;h2 id="fearlesscms">FearlessCMS&lt;/h2>
+&lt;p>I am currently working on FearlessCMS, a content management system that I will be using for new clients. I hope to have this in alpha by the end of May. It is a flat-file system, meaning it doesn&amp;rsquo;t connect to a SQL database. It uses markdown and saves to markdown files.&lt;/p>
+&lt;p>I feel it comes at a pivotal time, considering there is a lot of drama in the Wordpress community. I will continue to support Wordpress-based sites. But I do have to wonder about the future of Wordpress.&lt;/p></description></item><item><title>I'm back, program wasn't quite three months</title><link>/post/im-back/</link><pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/post/im-back/</guid><description>&lt;p>So I found out while I was in the program that it wasn&amp;rsquo;t necessarily for three months. Besides, my insurance would only cover 45 days.&lt;/p>
+&lt;p>It&amp;rsquo;s all good. I got the healing I needed for the time being. Now I&amp;rsquo;m ready to get to work on some awesome projects.&lt;/p>
+&lt;p>Development projects I was able to do while in treatment:&lt;/p>
+&lt;ul>
+ &lt;li>A javascript CLI app for contacts, compiled with Bun&lt;/li>
+ &lt;li>A Mad Libs clone I call GeekyLibs&lt;/li>
+&lt;/ul>
+&lt;p>I&amp;rsquo;m also refreshing myself on Python. While I had learned that a while back, I never really did anything with it, and I do want to do something with Python.&lt;/p></description></item><item><title>In 3 month residential treatment for mental health.</title><link>/post/update-out-for-three-months/</link><pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/post/update-out-for-three-months/</guid><description>&lt;p>Hi everyone! Well, interestingly, the same day I made my last post that said I was doing better, I had a bit of a meltdown and crisis later that day.&lt;/p>
+&lt;p>I spent a week in the hospital, and then was recommended for residential therapy at a local treatment program. This program also has an option for transitional housing at the end. This will be great since I&amp;rsquo;m at the shelter right now, and that takes a toll on me as it is. So I get the benefit of therapy and it&amp;rsquo;s a ticket out of the shelter.&lt;/p></description></item><item><title>Had to take a mental health break...</title><link>/post/mental-health-break/</link><pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/post/mental-health-break/</guid><description>&lt;p>Hi everyone! I had hoped to work on certain projects a bit more, but I pretty much needed a mental health break. I had several weeks where it was a struggle for me. So I didn&amp;rsquo;t focus on FearlessCMS or the other projects like I really wanted to.&lt;/p>
+&lt;p>January is generally a rough month for me anyway. Perhaps January should just be a month where I largely focus on my mental health going forward for me.&lt;/p></description></item><item><title>New Year, New Site!</title><link>/post/new-year-new-site/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/post/new-year-new-site/</guid><description>&lt;p>Well, it&amp;rsquo;s a new year! And a lot has changed! I have decided to redo my website. Honestly, it&amp;rsquo;s still in progress, but I wanted to go ahead and get something up as I took the old site down several months ago.&lt;/p>
+&lt;p>I have started my own new projects, but also looking for new clients in this new year.&lt;/p>
+&lt;p>I have made some changes in my life. I have moved to Salt Lake City, Utah! It&amp;rsquo;s a beautiful city with a thriving technology scene. I do miss Charlotte, but I needed a new start.&lt;/p></description></item></channel></rss>
