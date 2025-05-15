@@ -1,7 +1,7 @@
 +++
 author = "Fearless Geek Media"
 title = "FearlessCMS Update: 05-15-2025"
-date = "2025-04-05"
+date = "2025-05-15"
 description = "Update on FearlessCMS"
 tags = [
     "web design",
