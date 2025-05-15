@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>FearlessCMS on </title>
-    <link>https://hugo-theme-nightfall.netlify.com/tags/fearlesscms/</link>
-    <description>Recent content in FearlessCMS on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
-    <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
-    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hugo-theme-nightfall.netlify.com/tags/fearlesscms/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FearlessCMS Update: 05-15-2025</title>
-      <link>https://hugo-theme-nightfall.netlify.com/post/update-05-15/</link>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>https://hugo-theme-nightfall.netlify.com/post/update-05-15/</guid>
-      <description>&lt;h1 id=&#34;fearlesscms-update&#34;&gt;FearlessCMS Update&lt;/h1&gt;&#xA;&lt;p&gt;FearlessCMS has been in alpha for a few weeks now. I never got around to announcing it here. But we&amp;rsquo;re already on Alpha 2.&lt;/p&gt;&#xA;&lt;p&gt;I expect to be on Alpha 2 for some time. I want other developers to start trying it out and developing for it. I want to create a good plugin and theme ecosystem for the CMS.&lt;/p&gt;&#xA;&lt;p&gt;I also decided to add an export script to export to a static HTML/Javascript site, much like Hugo would create for you, even though it&amp;rsquo;s a full content management system, unlike Hugo.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FearlessCMS on</title><link>/tags/fearlesscms/</link><description>Recent content in FearlessCMS on</description><generator>Hugo</generator><language>en</language><managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor><webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/fearlesscms/index.xml" rel="self" type="application/rss+xml"/><item><title>FearlessCMS Update: 05-15-2025</title><link>/post/update-05-15/</link><pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author><guid>/post/update-05-15/</guid><description>&lt;h1 id="fearlesscms-update">FearlessCMS Update&lt;/h1>
+&lt;p>FearlessCMS has been in alpha for a few weeks now. I never got around to announcing it here. But we&amp;rsquo;re already on Alpha 2.&lt;/p>
+&lt;p>I expect to be on Alpha 2 for some time. I want other developers to start trying it out and developing for it. I want to create a good plugin and theme ecosystem for the CMS.&lt;/p>
+&lt;p>I also decided to add an export script to export to a static HTML/Javascript site, much like Hugo would create for you, even though it&amp;rsquo;s a full content management system, unlike Hugo.&lt;/p></description></item></channel></rss>

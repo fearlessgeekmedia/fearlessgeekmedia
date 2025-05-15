@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fearless Geek Media - xbpsman on </title>
-    <link>https://hugo-theme-nightfall.netlify.com/projects/xbpsman/</link>
-    <description>Recent content in Fearless Geek Media - xbpsman on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
-    <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hugo-theme-nightfall.netlify.com/projects/xbpsman/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fearless Geek Media - xbpsman on</title><link>/projects/xbpsman/</link><description>Recent content in Fearless Geek Media - xbpsman on</description><generator>Hugo</generator><language>en</language><managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor><webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster><lastBuildDate/><atom:link href="/projects/xbpsman/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
