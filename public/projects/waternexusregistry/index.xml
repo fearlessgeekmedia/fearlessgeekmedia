@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fearless Geek Media - Water Nexus Registry on</title><link>/projects/waternexusregistry/</link><description>Recent content in Fearless Geek Media - Water Nexus Registry on</description><generator>Hugo</generator><language>en</language><managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor><webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster><lastBuildDate/><atom:link href="/projects/waternexusregistry/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fearless Geek Media - Water Nexus Registry on </title>
+    <link>//localhost:1313/projects/waternexusregistry/</link>
+    <description>Recent content in Fearless Geek Media - Water Nexus Registry on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
+    <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/projects/waternexusregistry/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
