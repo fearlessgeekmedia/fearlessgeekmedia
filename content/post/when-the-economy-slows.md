@@ -91,4 +91,4 @@ employee. Invest in it like it matters, because it does—especially now.
  
 <i>Unleash your inner geek and explore a world of tech creativity at Fearless Geek Media!</i> 
 
-Guest Post from Lisa Christiansen of <a href="https://businessstarts.net" taget="_blank">Business Starts</a>
+Guest Post from Lisa Christiansen of <a href="https://businessstarts.net" target="_blank">Business Starts</a>
