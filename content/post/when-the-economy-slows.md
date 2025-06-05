@@ -21,8 +21,8 @@ willingness to rethink your online approach.
 **Lean Into Clarity, Not Cleverness**<br />
 When wallets tighten, people don’t want puzzles. They want to know what you do, why it 
 matters, and what they’re supposed to do next. Your homepage has to work like a great 
-storefront: clear, clean, and confidently useful. This is not the moment to bury your value 
-under clever metaphors or quirky animations. Instead, prioritize clarity in your copy, 
+storefront: clear, clean, and confidently useful. This is not the moment to <a href="https://www.ideasonpurpose.com/on/7-qualities-great-website/" target="_blank">bury your value 
+under clever metaphors</a> or quirky animations. Instead, prioritize clarity in your copy, 
 simplicity in your layout, and directness in your calls-to-action. If a customer lands on your 
 site with questions, and you give them riddles, they’re gone. 
  
@@ -30,7 +30,7 @@ site with questions, and you give them riddles, they’re gone.
 You don’t get the luxury of someone’s attention forever—especially not in a slowdown. If 
 your site’s lagging, you’re losing visitors before they even meet your business. Use tools like 
 Google PageSpeed Insights or GTmetrix to audit your site and trim the fat. This is where 
-compressing images, cleaning up bloated code, and simplifying plugins can have an 
+compressing images, <a href="https://www.cloudflare.com/learning/performance/why-site-speed-matters/" target="_blank">cleaning up bloated code</a>, and simplifying plugins can have an 
 outsized effect. People might forgive a lot in person, but online, speed is the language of 
 trust. 
 
@@ -47,28 +47,28 @@ Understanding how your website performs gives you a clear read on what’s worki
 what’s lagging, and where your visitors are slipping through the cracks. Key metrics like 
 unique visits, average duration of visits, bounce rate, and conversion rate offer valuable 
 insights into user engagement and website effectiveness. By leveraging tools like Google 
-Analytics to monitor these statistics, businesses can make informed decisions to optimize 
+Analytics to <a href="https://www.zenbusiness.com/blog/business-website-performance-your-4-most-important-statistics-google-analytics/" target="_blank">monitor these statistics</a>, businesses can make informed decisions to optimize 
 their online presence and foster sustainable growth. 
 
 **Create Low-Risk, High-Value Entry Points**<br />
 When folks are cautious with spending, jumping straight into a big purchase feels reckless. 
 Smart businesses adjust by offering smaller commitments that still deliver value. Think free 
-consultations, downloadable guides, or low-cost intro services. These entry points build 
-trust and give your audience a “taste” without triggering regret. You’re building a 
+consultations, downloadable guides, or low-cost intro services. These entry points <a href="https://www.shopperapproved.com/faq/4362168/How-Do-You-Collect-and-Display-Social-Proof-to-Improve-Your-Reputation" target="_blank">build 
+trust and give your audience a “taste”</a> without triggering regret. You’re building a 
 relationship—not just chasing a sale—and that distinction matters more than ever. 
 
 **Optimize for Mobile Like It's the Only Device That Exists** <br />
 If your website still treats mobile like a second-class citizen, it’s time to catch up. Especially 
 during a downturn, people are researching while commuting, scrolling while waiting in line, 
 or comparing services from their phones at home. Every second of inconvenience is a 
-reason to bounce. Your buttons need to be thumb-friendly, your text needs to be readable 
+reason to bounce. Your buttons <a href="https://www.wix.com/blog/mobile-first-vs-responsive-design-all-you-need-to-know" target="_blank">need to be thumb-friendly</a>, your text needs to be readable 
 without a squint, and your navigation should work without a tutorial. A mobile-first 
 mentality is no longer optional; it’s a baseline expectation. 
 
 **Collaborate With Specialists, Not Generalists**<br />
 Now’s not the moment to hand your site to someone who “kinda knows a guy.” If you’re 
 serious about growth, you want experts who live and breathe digital strategy. Teams like 
-Fearless Geek Media don’t just make sites that look slick—they build platforms that 
+<a href="https://fearlessgeekmedia.com">Fearless Geek Media</a> don’t just make sites that look slick—they build platforms that 
 convert, adapt, and support your business goals long-term. They understand what makes a 
 small business different and how to translate your offline magic into an online presence 
 that works even when you’re sleeping. When you collaborate with folks who see your vision 
@@ -77,7 +77,7 @@ and know how to execute it, the results feel like rocket fuel.
 **Lean Into Empathy Through Content**<br />
 Content isn’t just a marketing tool—it’s your handshake, your voice, your invitation to trust. 
 Especially in turbulent times, people crave brands that understand what they’re going 
-through. This is your chance to be useful, honest, and consistent. Blog posts, FAQs, and 
+through. This is <a href="https://www.linkedin.com/advice/3/heres-how-you-can-infuse-empathy-your-effective-d5nkc" target="_blank">your chance to be useful</a>, honest, and consistent. Blog posts, FAQs, and 
 video explainers should address real concerns, offer solutions, and make your business feel 
 like a steady hand in a shaky moment. Don’t talk at your audience—talk with them. 
 ​
