@@ -7,7 +7,7 @@ tags = [
 "markdown", "business", "strategy", "web design", "web development", "economy"
 ]
 +++
-<img src="../people-at-computer.jpg" alt="People at computer" />
+<img src="https://fearlessgeekmedia.com/post/people-at-computer.jpg" alt="People at computer" />
 Image via <a href="https://www.freepik.com/free-photo/four-multiethnic-colleagues-looking-computer-screen-office_21150347.htm#fromView=search&page=3&position=40&uuid=ee916d67-4072-49a4-b02c-a18a9ef2160c&query=business+team+on+computers" target="_blank">Freepik</a> 
 
 The market doesn't care if you're a beloved local shop or a bootstrapped startup with 
