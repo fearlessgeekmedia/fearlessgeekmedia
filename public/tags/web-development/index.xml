@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on </title>
-    <link>//localhost:1313/tags/web-development/</link>
+    <link>https://fearlessgeekmedia.com/tags/web-development/</link>
     <description>Recent content in Web Development on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
     <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
     <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fearlessgeekmedia.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smart, Sharp, and Overlooked: Moves That Make Small Business Websites Great</title>
-      <link>//localhost:1313/post/things-that-make-small-business-websites-great/</link>
+      <link>https://fearlessgeekmedia.com/post/things-that-make-small-business-websites-great/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/things-that-make-small-business-websites-great/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/woman-at-computer.png&#34; alt=&#34;Woman at computer&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Image by &lt;a href=&#34;https://www.freepik.com/free-photo/beautiful-female-executive-working-her-desk_1006024.htm&#34;&gt;Freepik&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Smart, Sharp, and Overlooked: Moves That Make Small Business Websites Great&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A great small business website doesn&amp;rsquo;t have to be flashy. But it does have to be fast, clear, and built with intention. Too many small business sites end up bloated, vague, or simply underperforming — not because of bad design, but because of small missteps that stack up. If you&amp;rsquo;re building from scratch or giving your site a needed refresh, consider these seven often-overlooked strategies. Each one sharpens the page where it matters most: usability, visibility, and trust.&lt;/p&gt;</description>
+      <guid>https://fearlessgeekmedia.com/post/things-that-make-small-business-websites-great/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://fearlessgeekmedia.com/post/woman-at-computer.png&#34; alt=&#34;Woman at computer&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Image by &lt;a href=&#34;https://www.freepik.com/free-photo/beautiful-female-executive-working-her-desk_1006024.htm&#34; target=&#34;_blank&#34;&gt;Freepik&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Smart, Sharp, and Overlooked: Moves That Make Small Business Websites Great&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A great small business website doesn&amp;rsquo;t have to be flashy. But it does have to be fast, clear, and built with intention. Too many small business sites end up bloated, vague, or simply underperforming — not because of bad design, but because of small missteps that stack up. If you&amp;rsquo;re building from scratch or giving your site a needed refresh, consider these seven often-overlooked strategies. Each one sharpens the page where it matters most: usability, visibility, and trust.&lt;/p&gt;</description>
     </item>
     <item>
       <title>When the Economy Slows, Smart Sites Win: Digital Moves That Keep Small Business Growing</title>
-      <link>//localhost:1313/post/when-the-economy-slows/</link>
+      <link>https://fearlessgeekmedia.com/post/when-the-economy-slows/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/when-the-economy-slows/</guid>
+      <guid>https://fearlessgeekmedia.com/post/when-the-economy-slows/</guid>
       <description>&lt;img src=&#34;https://fearlessgeekmedia.com/post/people-at-computer.jpg&#34; alt=&#34;People at computer&#34; /&gt;&#xA;Image via &lt;a href=&#34;https://www.freepik.com/free-photo/four-multiethnic-colleagues-looking-computer-screen-office_21150347.htm#fromView=search&amp;page=3&amp;position=40&amp;uuid=ee916d67-4072-49a4-b02c-a18a9ef2160c&amp;query=business+team+on+computers&#34; target=&#34;_blank&#34;&gt;Freepik&lt;/a&gt; &#xA;&lt;p&gt;The market doesn&amp;rsquo;t care if you&amp;rsquo;re a beloved local shop or a bootstrapped startup with&#xA;passion to spare. When economic downturns hit, they don’t knock—they bulldoze.&#xA;Customers become cautious. Budgets get tight. Every click matters, every scroll has to&#xA;count, and your website suddenly goes from “nice-to-have” to the central engine of your&#xA;business. The good news? You don’t need an enterprise war chest to make your site work&#xA;smarter, harder, and more empathetically. You just need the right digital instincts and a&#xA;willingness to rethink your online approach.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FearlessCMS Update: 05-15-2025</title>
-      <link>//localhost:1313/post/update-05-15/</link>
+      <link>https://fearlessgeekmedia.com/post/update-05-15/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/update-05-15/</guid>
+      <guid>https://fearlessgeekmedia.com/post/update-05-15/</guid>
       <description>&lt;h1 id=&#34;fearlesscms-update&#34;&gt;FearlessCMS Update&lt;/h1&gt;&#xA;&lt;p&gt;FearlessCMS has been in alpha for a few weeks now. I never got around to announcing it here. But we&amp;rsquo;re already on Alpha 2.&lt;/p&gt;&#xA;&lt;p&gt;I expect to be on Alpha 2 for some time. I want other developers to start trying it out and developing for it. I want to create a good plugin and theme ecosystem for the CMS.&lt;/p&gt;&#xA;&lt;p&gt;I also decided to add an export script to export to a static HTML/Javascript site, much like Hugo would create for you, even though it&amp;rsquo;s a full content management system, unlike Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plans...</title>
-      <link>//localhost:1313/post/plans/</link>
+      <link>https://fearlessgeekmedia.com/post/plans/</link>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/post/plans/</guid>
+      <guid>https://fearlessgeekmedia.com/post/plans/</guid>
       <description>&lt;h2 id=&#34;fearlesscms&#34;&gt;FearlessCMS&lt;/h2&gt;&#xA;&lt;p&gt;I am currently working on FearlessCMS, a content management system that I will be using for new clients. I hope to have this in alpha by the end of May. It is a flat-file system, meaning it doesn&amp;rsquo;t connect to a SQL database. It uses markdown and saves to markdown files.&lt;/p&gt;&#xA;&lt;p&gt;I feel it comes at a pivotal time, considering there is a lot of drama in the Wordpress community. I will continue to support Wordpress-based sites. But I do have to wonder about the future of Wordpress.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://fearlessgeekmedia.com/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
     <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
     <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fearlessgeekmedia.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
-      <link>//localhost:1313/tags/business/</link>
+      <link>https://fearlessgeekmedia.com/tags/business/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/business/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>//localhost:1313/tags/index/</link>
+      <link>https://fearlessgeekmedia.com/tags/index/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/index/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>//localhost:1313/tags/markdown/</link>
+      <link>https://fearlessgeekmedia.com/tags/markdown/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/markdown/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Strategy</title>
-      <link>//localhost:1313/tags/strategy/</link>
+      <link>https://fearlessgeekmedia.com/tags/strategy/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/strategy/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Design</title>
-      <link>//localhost:1313/tags/web-design/</link>
+      <link>https://fearlessgeekmedia.com/tags/web-design/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/web-design/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/web-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>//localhost:1313/tags/web-development/</link>
+      <link>https://fearlessgeekmedia.com/tags/web-development/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/web-development/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Economy</title>
-      <link>//localhost:1313/tags/economy/</link>
+      <link>https://fearlessgeekmedia.com/tags/economy/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/economy/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/economy/</guid>
       <description></description>
     </item>
     <item>
       <title>FearlessCMS</title>
-      <link>//localhost:1313/tags/fearlesscms/</link>
+      <link>https://fearlessgeekmedia.com/tags/fearlesscms/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/fearlesscms/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/fearlesscms/</guid>
       <description></description>
     </item>
     <item>
       <title>App Development</title>
-      <link>//localhost:1313/tags/app-development/</link>
+      <link>https://fearlessgeekmedia.com/tags/app-development/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/app-development/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/app-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Editor</title>
-      <link>//localhost:1313/tags/editor/</link>
+      <link>https://fearlessgeekmedia.com/tags/editor/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/editor/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/editor/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Health</title>
-      <link>//localhost:1313/tags/mental-health/</link>
+      <link>https://fearlessgeekmedia.com/tags/mental-health/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/mental-health/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/mental-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Update</title>
-      <link>//localhost:1313/tags/update/</link>
+      <link>https://fearlessgeekmedia.com/tags/update/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/update/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/update/</guid>
       <description></description>
     </item>
     <item>
       <title>New Year</title>
-      <link>//localhost:1313/tags/new-year/</link>
+      <link>https://fearlessgeekmedia.com/tags/new-year/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/new-year/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/new-year/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>//localhost:1313/tags/website/</link>
+      <link>https://fearlessgeekmedia.com/tags/website/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>//localhost:1313/tags/website/</guid>
+      <guid>https://fearlessgeekmedia.com/tags/website/</guid>
       <description></description>
     </item>
   </channel>
