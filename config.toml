@@ -1,3 +1,4 @@
+baseURL = "https://fearlessgeekmedia.com/"
 [params]
 user = "home"
 hostname = "fearlessgeekmedia.com"
