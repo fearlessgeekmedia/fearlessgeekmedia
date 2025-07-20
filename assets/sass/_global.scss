@@ -3,9 +3,9 @@
 body {
   font-family: v.$fontParagraph;
   //color: v.$white;
-  color: #00c767;
+  color: #999999;
   //background-color: v.$backgroundDark;
-  background-color: #000000;
+  background-color: #ffffff;
   margin: 0;
   display: flex;
   flex-direction: column;
@@ -23,6 +23,28 @@ pre code {
   background: v.$backgroundDarker;
   padding: 10px;
   overflow: auto;
+}
+
+h1 {
+  border-style: dashed;
+  border-width: 2px;
+  padding: 1em;
+  text-align: center;
+  background-color: #000;
+  color: #02a002;
+}
+
+.listHeader {
+  background-color: #000;
+  color: #02a002;
+}
+
+.content .main {
+  border-width: 2px;
+  border-color: #00c767;
+  border-style: dashed;
+  padding: 1em;
+  width: 1000px;
 }
 
 code {
@@ -58,10 +80,9 @@ code {
 }
 
 #indexHeader {
-  border-radius: 25px;
-  border-width: 5px;
-  border-color: #006200;
-  border-style: solid;
+  border-width: 2px;
+  border-color: #00c767;
+  border-style: dashed;
 }
 
 .headerLinks li {
@@ -85,7 +106,9 @@ form {
 }
 
 td {
-    width: 25%;
-    border-bottom: 1px solid #232323;
-    background: #0f0f0f;
+  width: 25%;
+  border-bottom: 1px solid #232323;
+  background: #dfdfdf;
+  color: #999999;
 }
+
