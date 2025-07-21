@@ -1,6 +1,10 @@
 @use "utils/variables" as v;
 
 body {
+  background-image: url("https://567diwd38z.ufs.sh/f/jv5IZEGkRvtiWdtC9LVFXPpdiHB4x3hSVlmJOz6ctvaNs2UY");
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: luminosity;
   font-family: v.$fontParagraph;
   //color: v.$white;
   color: #999999;
@@ -45,6 +49,7 @@ h1 {
   border-style: dashed;
   padding: 1em;
   width: 1000px;
+  background-color: #000000eb;
 }
 
 code {

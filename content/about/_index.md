@@ -2,7 +2,7 @@
 title = "About Fearless Geek Media"
 +++
 
-<img src="../images/will-in-suit.png" align="right" width="150" style="border: 0px dashed #5cc868; border-radius: 15%;box-shadow: 4px 5px 2px #000;"> Started by PKA Will Michaels, Fearless Geek Media serves clients in
+<img src="../images/will-in-suit.png" align="right" width="200" style="border: 0px dashed #5cc868; border-radius: 100%;box-shadow: 4px 5px 2px #000;"> Started by PKA Will Michaels, Fearless Geek Media serves clients in
 Salt Lake City, Utah and beyond FEARLESSLY, helping you stand out from
 the crowd with professional website design and development, graphic design,
 social media management, and more.
