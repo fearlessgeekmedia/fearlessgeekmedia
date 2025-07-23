@@ -117,3 +117,8 @@ td {
   color: #999999;
 }
 
+@media screen and (max-width: 1000px) {
+  .content .main {
+    width: 100% !important;
+  }
+}
