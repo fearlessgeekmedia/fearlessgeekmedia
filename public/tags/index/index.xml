@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on </title>
-    <link>http://localhost:1313/tags/index/</link>
+    <link>https://fearlessgeekmedia.com/tags/index/</link>
     <description>Recent content in Index on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
     <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
     <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fearlessgeekmedia.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://fearlessgeekmedia.com/post/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>service@fearlessgeekmedia.com (Fearless Geek Media)</author>
-      <guid>http://localhost:1313/post/</guid>
+      <guid>https://fearlessgeekmedia.com/post/</guid>
       <description></description>
     </item>
   </channel>

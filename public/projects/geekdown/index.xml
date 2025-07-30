@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fearless Geek Media - GeekDown on </title>
-    <link>http://localhost:1313/projects/geekdown/</link>
+    <link>https://fearlessgeekmedia.com/projects/geekdown/</link>
     <description>Recent content in Fearless Geek Media - GeekDown on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>service@fearlessgeekmedia.com (Fearless Geek Media)</managingEditor>
     <webMaster>service@fearlessgeekmedia.com (Fearless Geek Media)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/geekdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fearlessgeekmedia.com/projects/geekdown/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
